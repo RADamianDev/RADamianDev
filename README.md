@@ -10,8 +10,7 @@ Additionally, I am actively taking supplementary courses and diploma programs to
 - **Cybersecurity**
 
 ## Skills
-- **Programming Languages:**
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Programming Languages:** Python, C#
 - **AI / Data Science:** (Currently learning)
 - **Game Engines:** Godot, Unity (basics concepts)
 
@@ -24,4 +23,4 @@ Additionally, I am actively taking supplementary courses and diploma programs to
 - **Certificate in Production, Management and Marketing for Video Games**  
   Issued by LAB.IC – Cultural Institute of the Province of Buenos Aires (2025)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RADamianDev&layout=compact&theme=dark)
