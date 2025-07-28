@@ -24,5 +24,5 @@ Additionally, I am actively taking supplementary courses and diploma programs to
   Issued by LAB.IC – Cultural Institute of the Province of Buenos Aires (2025)
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RADamianDev&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RADamianDev&layout=compact&theme=dark" alt="Top Langs" />
 </p>
