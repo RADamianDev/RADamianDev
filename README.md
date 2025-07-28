@@ -1,4 +1,4 @@
-# <p align="center"> Rodriguez Damian Adriel </p>
+<p align="center"> Rodriguez Damian Adriel</p>
 
 ## 👤 About Me
 I am a student at the Universidad Nacional de La Plata (UNLP), pursuing a Bachelor's degree in Computer Science as well as a Technical degree in Information and Communication Technology Analysis.
