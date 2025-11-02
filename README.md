@@ -1,5 +1,3 @@
-# <p align="center"> Rodriguez Damian Adriel</p>
-
 ## 👤 About Me
 A student at the Universidad Nacional de La Plata (UNLP), pursuing a Bachelor's degree in Computer Science as well as a Technical degree in Information and Communication Technology Analysis.
 Additionally, actively taking supplementary courses and diploma programs to deepen expertise and develop specialized skills in targeted areas.
